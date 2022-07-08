@@ -1,0 +1,18 @@
+## ========
+## ::
+##     >>>> kedro new --config config.yml
+## ========
+# Directory in which your project is created
+output_dir: ../projects/
+
+# A human-readable name for your new project 
+# e.g., Get Started
+project_name: Kedro Project Tutorial    
+
+# Directory that holds your project repository 
+# e.g., get-started
+repo_name:  kedro-tutorial 
+
+# A name for the Python package name in your project 
+# short, all-lowercase, e.g., get_started
+python_package: kedro_tutorial    
